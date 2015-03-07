@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/224/trunk/TNOVA/ADRA/ADRAUtil/src/main/java/pe/adra/util/formato
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/224/trunk/TNOVA/ADRA/ADRAUtil/src/main/java/pe/adra/util/formato/DateUtil.java
+END
+TiempoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/224/trunk/TNOVA/ADRA/ADRAUtil/src/main/java/pe/adra/util/formato/TiempoUtil.java
+END
+UnicodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/224/trunk/TNOVA/ADRA/ADRAUtil/src/main/java/pe/adra/util/formato/UnicodeFormatter.java
+END
+DateFormatEnumUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/224/trunk/TNOVA/ADRA/ADRAUtil/src/main/java/pe/adra/util/formato/DateFormatEnumUtil.java
+END
